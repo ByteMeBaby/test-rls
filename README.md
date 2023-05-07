@@ -4,6 +4,10 @@
 
 ```bash
 pnpm i @bytemebaby/test-rls
+# or
+npm i @bytemebaby/test-rls
+# or
+yarn add @bytemebaby/test-rls
 ```
 
 ### Usage
