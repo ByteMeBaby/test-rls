@@ -2,7 +2,7 @@
   "name": "@bytemebaby/test-rls",
   "description": "This is test project for testing https://github.com/bytemebaby/react-lib-starter",
   "private": false,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "exports": {
     ".": {
