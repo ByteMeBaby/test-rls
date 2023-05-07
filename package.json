@@ -1,5 +1,6 @@
 {
-  "name": "react-lib-starter",
+  "name": "@bytemebaby/test-rls",
+  "description": "This is test project for testing https://github.com/bytemebaby/react-lib-starter",
   "private": false,
   "version": "0.0.0",
   "type": "module",
@@ -61,7 +62,7 @@
     }
   },
   "license": "MIT",
-  "homepage": "https://github.com/bytemebaby/react-lib-starter#readme",
+  "homepage": "https://github.com/bytemebaby/test-rls#readme",
   "author": {
     "name": "ByteMeBaby"
   }

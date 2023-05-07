@@ -1,10 +1,12 @@
+import { Woof } from "./lib/woof";
 import "./App.css";
-import { Test } from "./lib/component";
+import { Rocky } from "./lib/rocky";
 
 function App() {
   return (
     <>
-      <Test />
+      <Woof />
+      <Rocky />
     </>
   );
 }
