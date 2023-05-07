@@ -1,1 +1,2 @@
-export { Test } from "./src/lib/component";
+export { Rocky } from "./src/lib/rocky";
+export { Woof } from "./src/lib/woof";
